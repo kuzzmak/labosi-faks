@@ -1,0 +1,50 @@
+﻿  Vj4 - Objekti.cpp
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(49): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(50): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(51): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(52): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(54): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(55): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(56): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(57): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(133): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(135): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(180): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(203): warning C4101: 'poly': unreferenced local variable
+  OpenGL.vcxproj -> C:\Users\kuzmi\source\repos\OpenGL\Debug\OpenGL.exe

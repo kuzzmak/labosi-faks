@@ -406,8 +406,11 @@
   <ItemGroup>
     <ClCompile Include="glm\glm\detail\glm.cpp" />
     <ClCompile Include="poligon.cpp" />
+    <ClCompile Include="Source.cpp" />
     <ClCompile Include="Vj3 - Poligon.cpp" />
     <ClCompile Include="Vj4 - Objekti.cpp" />
+    <ClCompile Include="Vj5 - Projekcije.cpp" />
+    <ClCompile Include="Vj6  - Krivulja.cpp" />
     <ClCompile Include="zad1.cpp" />
     <ClCompile Include="OpenGL.cpp" />
     <ClCompile Include="zad2.cpp" />

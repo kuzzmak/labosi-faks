@@ -1,50 +1,37 @@
-﻿  Vj4 - Objekti.cpp
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(49): warning C4305: 'argument': truncation from 'double' to '_Ty'
-          with
-          [
-              _Ty=float
-          ]
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(50): warning C4305: 'argument': truncation from 'double' to '_Ty'
-          with
-          [
-              _Ty=float
-          ]
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(51): warning C4305: 'argument': truncation from 'double' to '_Ty'
-          with
-          [
-              _Ty=float
-          ]
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(52): warning C4305: 'argument': truncation from 'double' to '_Ty'
-          with
-          [
-              _Ty=float
-          ]
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(54): warning C4305: 'argument': truncation from 'double' to '_Ty'
-          with
-          [
-              _Ty=float
-          ]
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(55): warning C4305: 'argument': truncation from 'double' to '_Ty'
-          with
-          [
-              _Ty=float
-          ]
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(56): warning C4305: 'argument': truncation from 'double' to '_Ty'
-          with
-          [
-              _Ty=float
-          ]
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(57): warning C4305: 'argument': truncation from 'double' to '_Ty'
-          with
-          [
-              _Ty=float
-          ]
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(124): warning C4018: '<': signed/unsigned mismatch
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(133): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(135): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(180): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(204): warning C4018: '<': signed/unsigned mismatch
-c:\users\kuzmi\source\repos\opengl\opengl\vj4 - objekti.cpp(203): warning C4101: 'poly': unreferenced local variable
-  OpenGL.vcxproj -> C:\Users\kuzmi\source\repos\OpenGL\Debug\OpenGL.exe
+﻿  glm.cpp
+  poligon.cpp
+  Source.cpp
+  Vj3 - Poligon.cpp
+  Vj4 - Objekti.cpp
+  Vj5 - Projekcije.cpp
+c:\users\kuzmi\source\repos\opengl\opengl\vj5 - projekcije.cpp(150): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuzmi\source\repos\opengl\opengl\vj5 - projekcije.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuzmi\source\repos\opengl\opengl\vj5 - projekcije.cpp(176): warning C4101: 'poly': unreferenced local variable
+c:\users\kuzmi\source\repos\opengl\opengl\vj5 - projekcije.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\kuzmi\source\repos\opengl\opengl\vj5 - projekcije.cpp(248): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\kuzmi\source\repos\opengl\opengl\vj5 - projekcije.cpp(293): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuzmi\source\repos\opengl\opengl\vj5 - projekcije.cpp(294): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuzmi\source\repos\opengl\opengl\vj5 - projekcije.cpp(295): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Vj6  - Krivulja.cpp
+c:\users\kuzmi\source\repos\opengl\opengl\vj6  - krivulja.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuzmi\source\repos\opengl\opengl\vj6  - krivulja.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kuzmi\source\repos\opengl\opengl\vj6  - krivulja.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  zad1.cpp
+  OpenGL.cpp
+  zad2.cpp
+  Generating Code...
+Vj6  - Krivulja.obj : error LNK2005: "void __cdecl bresenham_nacrtaj(int,int,int,int)" (?bresenham_nacrtaj@@YAXHHHH@Z) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "void __cdecl bresenham_nacrtaj_cjelobrojni1(int,int,int,int)" (?bresenham_nacrtaj_cjelobrojni1@@YAXHHHH@Z) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "void __cdecl bresenham_nacrtaj_cjelobrojni2(int,int,int,int)" (?bresenham_nacrtaj_cjelobrojni2@@YAXHHHH@Z) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "void __cdecl bresenham_nacrtaj_cjelobrojni3(int,int,int,int)" (?bresenham_nacrtaj_cjelobrojni3@@YAXHHHH@Z) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "void __cdecl bresenham_nacrtaj_cjelobrojni(int,int,int,int)" (?bresenham_nacrtaj_cjelobrojni@@YAXHHHH@Z) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "void __cdecl line_nacrtaj(int,int,int,int)" (?line_nacrtaj@@YAXHHHH@Z) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > __cdecl split(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,char)" (?split@@YA?AV?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@D@Z) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "void __cdecl ucitajObjekt(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?ucitajObjekt@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: _main already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "unsigned int width" (?width@@3IA) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "unsigned int height" (?height@@3IA) already defined in Vj5 - Projekcije.obj
+Vj6  - Krivulja.obj : error LNK2005: "class std::vector<struct iTocka3D,class std::allocator<struct iTocka3D> > poljeTocaka" (?poljeTocaka@@3V?$vector@UiTocka3D@@V?$allocator@UiTocka3D@@@std@@@std@@A) already defined in Vj5 - Projekcije.obj
+C:\Users\kuzmi\source\repos\OpenGL\Debug\OpenGL.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -773,6 +773,15 @@
     <ClCompile Include="Vj4 - Objekti.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Vj5 - Projekcije.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Vj6  - Krivulja.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="glm\glm\detail\func_common.inl">

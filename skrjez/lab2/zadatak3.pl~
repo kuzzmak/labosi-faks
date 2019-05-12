@@ -33,6 +33,12 @@ sub load_with_files{
 		$array{@temp_time[1]} = $array{@temp_time[1]} += 1;
 	}
 
+	#	# ispis polja
+	#	while(($key, $value) = each %array){
+	#		print "\t$key : $value\n";
+	#	}
+	#	print "\n";
+	#	
 	# ispis polja
 	foreach my $key(sort {$a <=> $b} keys %array){
 		my $value = $array{$key};

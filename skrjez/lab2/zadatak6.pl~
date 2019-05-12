@@ -33,6 +33,7 @@ if($noofargs > 0){
 				# ako rijec ima barem toliko znakova koliko
 				# je zadnji predani argument
 				if(m/[a-z]{$length}/){
+					print "|$_|\n";
 					# uzima se dio rijeci duzine zadnjeg argumenta
 					$var = substr $_, 0, $length;
 					# povecava se vrijednost uz rijec ako je 

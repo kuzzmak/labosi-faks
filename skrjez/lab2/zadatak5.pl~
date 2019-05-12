@@ -12,7 +12,9 @@ if(! open dat, @file[0]){
 %polje = ();
 
 while(<dat>){
+
 	chomp;	
+
 	# regularni izraz za slucaj kada redak pocinje s koeficijentima
 	if(m/^[0-9]\./){
 		@koef = split /;/, $_;
@@ -41,7 +43,10 @@ while(<dat>){
 		# a vrijednost je suma rezultata pojedinog studenta
 		$key = "$prezime, $ime $jmbag";
 		$polje{$key} = $suma;	
+
 	}
+
+	
 }
 
 # okretanje uloge kljuca i vrijednosti u svrhu lakseg sortiranja
